@@ -72,8 +72,9 @@ SHOW CREATE TABLE VENTA_DETALLE;
 El proyecto incluye capturas de:
 
 * Tablas creadas
-* Estructura de tablas
-* Relaciones entre tablas
+<img width="199" height="128" alt="image" src="https://github.com/user-attachments/assets/e9ef7c46-8db5-4ed8-ab9f-3857086689b8" />
+
+
 
 ---
 
